@@ -161,7 +161,7 @@ form a{
 }
 
 .card .img-noble{
-    background-image: url(../img/dev-dp1.jpg);
+    background-image: url(../img/2106.jpg);
     position: relative;
     width: 100%;
     height: 220px;
@@ -172,7 +172,7 @@ form a{
 }
 
 .card .img-chizzy{
-    background-image: url(../img/chizzy.jpg);
+    background-image: url(../img/mike-dp.jpg);
     position: relative;
     width: 100%;
     height: 220px;
@@ -184,7 +184,7 @@ form a{
 }
 
 .card .img-newness{
-    background-image: url(../img/dev-dp1.jpg);
+    background-image: url(../img/client-test-2.jpg);
     position: relative;
     width: 100%;
     height: 220px;
@@ -251,7 +251,7 @@ form a{
 .card .profile-img-2{
     background: red;
     margin: 7px;
-    background-image: url(../img/ace.jpg);
+    background-image: url(../img/client-test-3.jpg);
     background-position: center;
     background-size: cover;
     width: 100px;
@@ -262,7 +262,7 @@ form a{
 .card .profile-img-3{
     background: red;
     margin: 7px;
-    background-image: url(../img/chyd.jpg);
+    background-image: url(../img/client-test-1.jpg);
     background-position: center;
     background-size: cover;
     width: 100px;

@@ -111,5 +111,35 @@ nav form a{
         /* padding-bottom: 40px; */
     }
 
+}
 
+
+@media screen and (min-width: 425px) and (max-width: 992px){
+    .contact-img{
+        display: none;
+    }
+    
+    .container{
+        /* min-height: 100vh; */
+        background-image: url(../img/map-bg.jpg);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5px;
+    
+    }
+
+    .card{
+        width: 100%;
+        /* max-width: 900px; */
+        display: grid;
+        grid-template-columns: 1fr;
+        background-image: url(../img/services-bg.jpg);
+        background-size: cover;
+        background-position: center top;
+        height: auto;
+        padding: 20px;
+        /* margin: 0 auto; */
+        /* padding-bottom: 40px; */
+    }
 }
