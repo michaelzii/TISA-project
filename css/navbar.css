@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    /* font-family: 'Times New Roman', Times, serif; */
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    padding: 25px 4%;
+    align-items: center;
+    border-color: aqua;
+}
+
+nav .brand-name{
+    text-decoration: none;
+    font-size: 38px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+    transition: all 2s ease;
+}
+
+nav ul{
+    display: flex;
+    gap: 60px;
+}
+
+.nav-items a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    transition: all .7s ease;
+}
+
+.nav-items a:hover{
+    color: gray;
+    text-decoration: underline;
+}
+
+.nav-btn button{
+    padding: 10px;
+    border-radius: 24px;
+    border-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: aliceblue;
+    transition: all .4s ease;
+}
+
+.nav-btn button:hover{
+    color: black;
+    background-color: rgba(98, 230, 144, 0.793);
+    transform: translateY(-5px);
+    border: 2px solid;
+}
