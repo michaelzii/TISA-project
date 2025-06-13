@@ -390,6 +390,11 @@ form a{
         margin: 20px;
     }
 
+    .card-data{
+        width: 100%;
+        margin-left: 0rem;
+    }
+
 }
 
 @media screen and (min-width: 700px) and (max-width: 1024px){
@@ -433,6 +438,7 @@ form a{
         margin: 20px;
     }
 }
+
 
 @media screen and (min-width: 1024px) and (max-width: 1025px){
     .hero{
