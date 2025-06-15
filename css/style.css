@@ -42,6 +42,7 @@ form a{
 
 .hero-text p{
     font-size: smaller;
+    font-family: "Arima", system-ui;
 }
 
 .hero-text .icons{
@@ -77,6 +78,8 @@ form a{
 .adverts .yaps{
     color: aliceblue;
     font-weight: 500;
+    font-family: "Arima", system-ui;
+
     /* margin-top: 10rem; */
     margin: auto;
     font-size: 1.5rem;
